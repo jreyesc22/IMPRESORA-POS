@@ -54,10 +54,11 @@ No soporta impresión directa a impresoras USB, solo impresoras de red.
 
 No almacena ni registra trabajos de impresión. Va todo directo a la impresora.
 
-Licencia
-Este proyecto es open source, pero con sello propio. Puedes copiar, modificar y usar el código bajo la licencia "jdkan":
-Si te funciona, compártelo; si lo mejoras, no seas codo. Si algo explota… no reclames, mejor aprende.
-Desarrollado por jdkan.
+Licencia: 
+Este proyecto es open source, Este código fue recopilado y adaptado por jdkan para hacerlo funcionar en un caso práctico.
+Puedes usarlo, modificarlo y compartirlo como quieras.
+
+NO ME HAGO RESPOSABLE: del uso indebido, errores, pérdidas de datos, incendios, ni desperfectos provocados por este software.
+Si te funciona, genial. Si lo mejoras, no seas egoísta y compártelo.
 
 Autor: jdkan
-Contacto: [jdreyescan@hotmail.com] 
